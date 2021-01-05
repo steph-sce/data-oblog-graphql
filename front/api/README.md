@@ -1,0 +1,1 @@
+# Exemple de client GraphQL pour le front

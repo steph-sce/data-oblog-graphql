@@ -1,0 +1,20 @@
+{
+  "name": "data-graph_ql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource": "^0.7.2",
+    "apollo-server-express": "^2.19.1",
+    "dotenv": "^8.2.0",
+    "dataloader": "^2.0.0",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0",
+    "pg": "^8.5.1"
+  }
+}
